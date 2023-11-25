@@ -1,0 +1,54 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build files
+build/
+dist/
+*.css.map
+*.js.map
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directory
+.dependency/
+
+# Local development files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+coverage/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# User-specific files
+*.sublime-workspace
+*.sublime-project
+*.sage
+sage-cache/
+
+# Yarn Integrity file
+.yarn-integrity
